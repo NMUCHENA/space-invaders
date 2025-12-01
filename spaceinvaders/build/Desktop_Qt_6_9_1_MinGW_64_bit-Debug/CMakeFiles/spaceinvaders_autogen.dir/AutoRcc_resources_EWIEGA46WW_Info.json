@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "C:/Users/nmuchena/Documents/spaceinvaders/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/spaceinvaders_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/nmuchena/Documents/spaceinvaders/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/nmuchena/Documents/spaceinvaders/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/nmuchena/Documents/spaceinvaders",
+	"CMAKE_SOURCE_DIR" : "C:/Users/nmuchena/Documents/spaceinvaders",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "C:/Users/nmuchena/Documents/spaceinvaders/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/spaceinvaders_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/nmuchena/Documents/spaceinvaders/space_background_clean.png",
+		"C:/Users/nmuchena/Documents/spaceinvaders/space bg.jpg",
+		"C:/Users/nmuchena/Documents/spaceinvaders/player_ship_clean.png",
+		"C:/Users/nmuchena/Documents/spaceinvaders/spacwinvaders bg.jpg",
+		"C:/Users/nmuchena/Documents/spaceinvaders/enemy_ship_clean.png",
+		"C:/Users/nmuchena/Documents/spaceinvaders/player_laser_clean.png"
+	],
+	"LOCK_FILE" : "C:/Users/nmuchena/Documents/spaceinvaders/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/spaceinvaders_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/nmuchena/Documents/spaceinvaders/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/spaceinvaders_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/nmuchena/Documents/spaceinvaders/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

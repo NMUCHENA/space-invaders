@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>enemy_ship_clean.png</file>
+        <file>player_ship_clean.png</file>
+        <file>space_background_clean.png</file>
+        <file>player_laser_clean.png</file>
+        <file>spacwinvaders bg.jpg</file>
+        <file>space bg.jpg</file>
+    </qresource>
+</RCC>
